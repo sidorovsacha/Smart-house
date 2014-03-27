@@ -1,0 +1,21 @@
+C:\Users\emachines\Documents\Visual Studio 2010\Projects\ArduinoSP\ArduinoSP\bin\Debug\ArduinoSP.exe
+C:\Users\emachines\Documents\Visual Studio 2010\Projects\ArduinoSP\ArduinoSP\bin\Debug\ArduinoSP.pdb
+C:\Users\emachines\Documents\Visual Studio 2010\Projects\ArduinoSP\ArduinoSP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emachines\Documents\Visual Studio 2010\Projects\ArduinoSP\ArduinoSP\obj\x86\Debug\ArduinoSP.Form1.resources
+C:\Users\emachines\Documents\Visual Studio 2010\Projects\ArduinoSP\ArduinoSP\obj\x86\Debug\ArduinoSP.Properties.Resources.resources
+C:\Users\emachines\Documents\Visual Studio 2010\Projects\ArduinoSP\ArduinoSP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emachines\Documents\Visual Studio 2010\Projects\ArduinoSP\ArduinoSP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\emachines\Documents\Visual Studio 2010\Projects\ArduinoSP\ArduinoSP\obj\x86\Debug\ArduinoSP.exe
+C:\Users\emachines\Documents\Visual Studio 2010\Projects\ArduinoSP\ArduinoSP\obj\x86\Debug\ArduinoSP.pdb
+C:\Users\emachines\Desktop\Projects\ArduinoSP\ArduinoSP\bin\Debug\ArduinoSP.exe.config
+C:\Users\emachines\Desktop\Projects\ArduinoSP\ArduinoSP\bin\Debug\ArduinoSP.exe
+C:\Users\emachines\Desktop\Projects\ArduinoSP\ArduinoSP\bin\Debug\ArduinoSP.pdb
+C:\Users\emachines\Desktop\Projects\ArduinoSP\ArduinoSP\obj\x86\Debug\ArduinoSP.Form1.resources
+C:\Users\emachines\Desktop\Projects\ArduinoSP\ArduinoSP\obj\x86\Debug\ArduinoSP.Properties.Resources.resources
+C:\Users\emachines\Desktop\Projects\ArduinoSP\ArduinoSP\obj\x86\Debug\ArduinoSP.csproj.GenerateResource.Cache
+C:\Users\emachines\Desktop\Projects\ArduinoSP\ArduinoSP\obj\x86\Debug\ArduinoSP.exe
+C:\Users\emachines\Desktop\Projects\ArduinoSP\ArduinoSP\obj\x86\Debug\ArduinoSP.pdb
+C:\Users\emachines\Desktop\Projects\ArduinoSP\ArduinoSP\obj\x86\Debug\ArduinoSP.csprojResolveAssemblyReference.cache
+C:\Users\emachines\Desktop\Projects\ArduinoSP\ArduinoSP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\emachines\Desktop\Projects\ArduinoSP\ArduinoSP\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\emachines\Desktop\Projects\ArduinoSP\ArduinoSP\bin\Debug\Newtonsoft.Json.xml
