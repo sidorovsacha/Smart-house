@@ -74,17 +74,17 @@
             this.label33 = new System.Windows.Forms.Label();
             this.label32 = new System.Windows.Forms.Label();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.label38 = new System.Windows.Forms.Label();
             this.label37 = new System.Windows.Forms.Label();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.button4 = new System.Windows.Forms.Button();
-            this.label38 = new System.Windows.Forms.Label();
             this.label34 = new System.Windows.Forms.Label();
             this.button6 = new System.Windows.Forms.Button();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
             this.label39 = new System.Windows.Forms.Label();
             this.groupBox5 = new System.Windows.Forms.GroupBox();
-            this.label40 = new System.Windows.Forms.Label();
             this.label41 = new System.Windows.Forms.Label();
+            this.label40 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -94,7 +94,7 @@
             // 
             // Arduino
             // 
-            this.Arduino.Interval = 1000;
+            this.Arduino.Interval = 800;
             this.Arduino.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // MySQLDatabase
@@ -530,6 +530,14 @@
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "narodmon.ru";
             // 
+            // label38
+            // 
+            this.label38.Location = new System.Drawing.Point(123, 58);
+            this.label38.Name = "label38";
+            this.label38.Size = new System.Drawing.Size(79, 35);
+            this.label38.TabIndex = 3;
+            this.label38.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
             // label37
             // 
             this.label37.Location = new System.Drawing.Point(9, 58);
@@ -555,14 +563,6 @@
             this.button4.Text = "Отключить передачу данных";
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
-            // 
-            // label38
-            // 
-            this.label38.Location = new System.Drawing.Point(123, 58);
-            this.label38.Name = "label38";
-            this.label38.Size = new System.Drawing.Size(79, 35);
-            this.label38.TabIndex = 3;
-            this.label38.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label34
             // 
@@ -614,15 +614,6 @@
             this.groupBox5.TabStop = false;
             this.groupBox5.Text = "Сокет сервер";
             // 
-            // label40
-            // 
-            this.label40.AutoSize = true;
-            this.label40.Location = new System.Drawing.Point(18, 26);
-            this.label40.Name = "label40";
-            this.label40.Size = new System.Drawing.Size(109, 13);
-            this.label40.TabIndex = 0;
-            this.label40.Text = "Состояние сервера:";
-            // 
             // label41
             // 
             this.label41.AutoSize = true;
@@ -631,6 +622,15 @@
             this.label41.Size = new System.Drawing.Size(27, 13);
             this.label41.TabIndex = 1;
             this.label41.Text = "OFF";
+            // 
+            // label40
+            // 
+            this.label40.AutoSize = true;
+            this.label40.Location = new System.Drawing.Point(18, 26);
+            this.label40.Name = "label40";
+            this.label40.Size = new System.Drawing.Size(109, 13);
+            this.label40.TabIndex = 0;
+            this.label40.Text = "Состояние сервера:";
             // 
             // Form1
             // 

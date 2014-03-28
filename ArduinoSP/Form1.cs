@@ -36,7 +36,7 @@ namespace ArduinoSP
         string temper1, davl, temper2, temper3, vlaga, dver, rip, signal, svet, sostoyanie = "C", udpData;
         int SvetAvto = 0, Svet = 0, Signal = 0, UDPtimeNarodmon = 60;
         byte SvetOnOff = 0, SignalOnOff = 0, datatimedvr = 0, datatimerip = 0, smsopoveschenie = 0, narodmonOnOFF = 1, narodmonButton = 1, smsButton = 0;
-        bool StatusServer = false;
+     public static bool StatusServer = false;
         private void button3_Click(object sender, EventArgs e)
         {
             if (SignalOnOff == 0) {
@@ -168,9 +168,9 @@ namespace ArduinoSP
             { 
                 mas = a.Split(new char[] { ' ' });
 
-                if (mas.Contains("start") && mas.Contains("finisch"))
+                if (mas.Contains("*") && mas.Contains("#"))
                 {
-                    if (mas[1] == "start")
+                    if (mas[1] == "*")
                     {
                         label1.Text = mas[2];
                         temper1= mas[2];
